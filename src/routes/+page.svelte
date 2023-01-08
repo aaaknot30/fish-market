@@ -123,7 +123,7 @@ function loadFish () {
     </div>
     <footer>
       <div class="notes">
-
+        By Kyle Larson, Jan. 2023
       </div>
     </footer>
   </section>
@@ -208,5 +208,12 @@ header {
 footer {
   background-color: black;
   height: 60px;
+}
+
+.notes {
+  text-align: center;
+  color: white;
+  padding-top: 20px;
+
 }
 </style>
