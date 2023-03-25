@@ -123,7 +123,7 @@ function loadFish () {
     </div>
     <footer>
       <div class="notes">
-        By Kyle Larson, Jan. 2023
+        By Kyle Larson
       </div>
     </footer>
   </section>
