@@ -190,7 +190,7 @@ header {
   display: grid;
   grid-template-columns: 6fr 1fr;
   margin: 10px 0 0 40px;
-  width: 100vw
+  width: 90vw;
 }
 
 
@@ -223,7 +223,7 @@ footer {
   }
   form {
     margin-left: 20px;
-    margin-right: 0px;
+    margin-right: 10px;
     
   }
 }
