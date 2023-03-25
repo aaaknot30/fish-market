@@ -226,5 +226,12 @@ footer {
     margin-right: 10px;
     
   }
+
+  .photo-img {
+    margin: 10px 40px 40px 0px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px #333;
+    height: 150px;
+  }
 }
 </style>
