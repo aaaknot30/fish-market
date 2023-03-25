@@ -216,4 +216,13 @@ footer {
   padding-top: 20px;
 
 }
+
+@media (max-width: 1000px) {
+  .fishName {
+    font-size: 22px;
+  }
+  form {
+    margin-left: 20px;
+  }
+}
 </style>
