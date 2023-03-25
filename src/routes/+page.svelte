@@ -223,6 +223,8 @@ footer {
   }
   form {
     margin-left: 20px;
+    margin-right: 10px;
+    
   }
 }
 </style>
